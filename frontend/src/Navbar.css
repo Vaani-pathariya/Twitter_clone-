@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar  div img{
+    width: 30px;
+    height: 30px;
+    padding-top: 5px
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    width: 40px;
+    padding-bottom: 10px;
+}
+.navbar{
+    margin-left: 9vw;
+    margin-top: 2vh;
+}
+.vl{
+    border-left: 0.5px solid white;
+    height: 100vh;
+    margin: 0 25px;
+}
+.final{
+    display: flex;
+    flex-direction: row;
+}

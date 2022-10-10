@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white
+}
+.App-header  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
