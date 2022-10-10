@@ -6,7 +6,7 @@ const userModel=require ("./models");
 const app=express();
 const port = 3001;
 app.use (cors());
-mongoose.connect('mongodb+srv://vaani:vaani@cluster0.4odyq9y.mongodb.net/?retryWrites=true&w=majority',{
+mongoose.connect('',{
     useNewUrlParser :true,
     useUnifiedTopology: true
 });
